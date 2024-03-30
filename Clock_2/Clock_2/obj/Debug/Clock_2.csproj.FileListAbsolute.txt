@@ -1,0 +1,8 @@
+D:\Y2S2\GUI\BT\Clock_2\Clock_2\bin\Debug\Clock_2.dll
+D:\Y2S2\GUI\BT\Clock_2\Clock_2\bin\Debug\Clock_2.pdb
+D:\Y2S2\GUI\BT\Clock_2\Clock_2\obj\Debug\Clock_2.csproj.AssemblyReference.cache
+D:\Y2S2\GUI\BT\Clock_2\Clock_2\obj\Debug\Clock_2.Clock.resources
+D:\Y2S2\GUI\BT\Clock_2\Clock_2\obj\Debug\Clock_2.csproj.GenerateResource.cache
+D:\Y2S2\GUI\BT\Clock_2\Clock_2\obj\Debug\Clock_2.csproj.CoreCompileInputs.cache
+D:\Y2S2\GUI\BT\Clock_2\Clock_2\obj\Debug\Clock_2.dll
+D:\Y2S2\GUI\BT\Clock_2\Clock_2\obj\Debug\Clock_2.pdb
