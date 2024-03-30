@@ -1,0 +1,10 @@
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\bin\Debug\BT_2_6.exe.config
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\bin\Debug\BT_2_6.exe
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\bin\Debug\BT_2_6.pdb
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\obj\Debug\BT_2_6.csproj.AssemblyReference.cache
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\obj\Debug\BT_2_6.Form1.resources
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\obj\Debug\BT_2_6.Properties.Resources.resources
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\obj\Debug\BT_2_6.csproj.GenerateResource.cache
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\obj\Debug\BT_2_6.csproj.CoreCompileInputs.cache
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\obj\Debug\BT_2_6.exe
+D:\Y2S2\GUI\BT\BT_2_6\BT_2_6\obj\Debug\BT_2_6.pdb
