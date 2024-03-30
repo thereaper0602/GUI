@@ -1,0 +1,10 @@
+D:\Y2S2\GUI\BT\raceGame\raceGame\bin\Debug\raceGame.exe.config
+D:\Y2S2\GUI\BT\raceGame\raceGame\bin\Debug\raceGame.exe
+D:\Y2S2\GUI\BT\raceGame\raceGame\bin\Debug\raceGame.pdb
+D:\Y2S2\GUI\BT\raceGame\raceGame\obj\Debug\raceGame.csproj.AssemblyReference.cache
+D:\Y2S2\GUI\BT\raceGame\raceGame\obj\Debug\raceGame.Form1.resources
+D:\Y2S2\GUI\BT\raceGame\raceGame\obj\Debug\raceGame.Properties.Resources.resources
+D:\Y2S2\GUI\BT\raceGame\raceGame\obj\Debug\raceGame.csproj.GenerateResource.cache
+D:\Y2S2\GUI\BT\raceGame\raceGame\obj\Debug\raceGame.csproj.CoreCompileInputs.cache
+D:\Y2S2\GUI\BT\raceGame\raceGame\obj\Debug\raceGame.exe
+D:\Y2S2\GUI\BT\raceGame\raceGame\obj\Debug\raceGame.pdb
