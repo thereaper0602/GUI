@@ -1,0 +1,10 @@
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\bin\Debug\BT_C5.exe.config
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\bin\Debug\BT_C5.exe
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\bin\Debug\BT_C5.pdb
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\obj\Debug\BT_C5.csproj.AssemblyReference.cache
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\obj\Debug\BT_C5.Form1.resources
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\obj\Debug\BT_C5.Properties.Resources.resources
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\obj\Debug\BT_C5.csproj.GenerateResource.cache
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\obj\Debug\BT_C5.csproj.CoreCompileInputs.cache
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\obj\Debug\BT_C5.exe
+D:\Y2S2\GUI\BT\BT_C5\BT_C5\obj\Debug\BT_C5.pdb
